@@ -19,15 +19,23 @@ O projeto consiste em:
 4 -README.md: Documentação do projeto.
 
 # Pré-requisitos
-
 Node.js instalado na máquina.
-Como Usar
-Clone este repositório para o seu ambiente local.
-Navegue até o diretório do projeto.
-Instale as dependências do projeto usando o comando npm install.
-Coloque os arquivos de entrada no diretório data/in.
-Execute o projeto com o comando node src/readfile.js.
-Os arquivos de saída serão gerados no diretório data/out.
+
+# Como Usar
+## Clone este repositório para o seu ambiente local.
+
+## Navegue até o diretório do projeto.
+
+## Instale as dependências do projeto usando o comando:
+
+npm install.
+## Coloque os arquivos de entrada no diretório data/in.
+
+## Execute o projeto com o comando:
+
+node src/readfile.js.
+
+## Os arquivos de saída serão gerados no diretório data/out.
 
 #Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request.
