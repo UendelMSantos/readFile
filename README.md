@@ -11,8 +11,11 @@ Execução contínua, monitorando novos arquivos no diretório de entrada.
 O projeto consiste em:
 
 1- src/: Contém o código fonte do projeto.
+
 2- data/in/: Diretório para os arquivos de entrada.
+
 3 -data/out/: Diretório para os arquivos de saída.
+
 4 -README.md: Documentação do projeto.
 
 # Pré-requisitos
