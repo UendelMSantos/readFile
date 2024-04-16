@@ -14,28 +14,29 @@ O projeto consiste em:
 
 2- data/in/: Diretório para os arquivos de entrada.
 
-3 -data/out/: Diretório para os arquivos de saída.
+3-data/out/: Diretório para os arquivos de saída.
 
-4 -README.md: Documentação do projeto.
+4-README.md: Documentação do projeto.
 
 # Pré-requisitos
 Node.js instalado na máquina.
 
 # Como Usar
-## Clone este repositório para o seu ambiente local.
+1- Clone este repositório para o seu ambiente local.
 
-## Navegue até o diretório do projeto.
+2- Navegue até o diretório do projeto.
 
-## Instale as dependências do projeto usando o comando:
+3- Instale as dependências do projeto usando o comando:
 
 npm install.
-## Coloque os arquivos de entrada no diretório data/in.
 
-## Execute o projeto com o comando:
+4-  Coloque os arquivos de entrada no diretório data/in.
+
+5- Execute o projeto com o comando:
 
 node src/readfile.js.
 
-## Os arquivos de saída serão gerados no diretório data/out.
+6- Os arquivos de saída serão gerados no diretório data/out.
 
-#Contribuição
+# Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request.
